@@ -7111,15 +7111,15 @@
 		(embedded_fonts no)
 	)
 	(gr_rect
-		(start 82.5 55)
-		(end 166 111)
+		(start 81.5 54.5)
+		(end 166.5 110.5)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(fill no)
 		(layer "Edge.Cuts")
-		(uuid "a4a9b63c-9916-4d64-ac1a-3ad84c28847b")
+		(uuid "9eb448da-7742-435d-adfd-d38aa9c905c3")
 	)
 	(gr_rect
 		(start 86 70)
