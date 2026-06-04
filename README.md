@@ -1,7 +1,6 @@
 # HydroPad
 
-HydroPad is a macropad for people with palmer hyperhidrosis.
-It has some holes for the water to go through.
+HydroPad is a macropad for people with some holes for the water to go through.
 
 ## Gallery
 
