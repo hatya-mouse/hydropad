@@ -4,7 +4,7 @@
 #include QMK_KEYBOARD_H
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
-    [0] = LAYOUT(
+    [0] = LAYOUT_matrix_default(
         KC_A,    KC_B,    KC_C,
         KC_D,    KC_E,    KC_F
     )
@@ -14,9 +14,9 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 bool encoder_update_user(uint8_t index, bool clockwise) {
     if (index == 0) {
         if (clockwise) {
-            tap_code(KC_WH_U);
+            tap_code(KC_PGUP);
         } else {
-            tap_code(KC_WH_D);
+            tap_code(KC_PGDN);
         }
     }
     return true;
@@ -36,7 +36,7 @@ static void render_logo(void) {
 
 bool oled_task_user(void) {
     render_logo();
-    oled_write_in("HydroPad", false);
+    oled_write_ln("HydroPad", false);
     return false;
 }
 #endif

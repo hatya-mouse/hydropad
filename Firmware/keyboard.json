@@ -17,14 +17,13 @@
         "rows": ["GP2", "GP3"]
     },
     "processor": "RP2040",
-    "url": "",
     "usb": {
         "device_version": "1.0.0",
         "pid": "0x0000",
         "vid": "0xFEED"
     },
     "layouts": {
-        "LAYOUT": {
+        "LAYOUT_matrix_default": {
             "layout": [
                 { "matrix": [0, 0], "x": 0, "y": 0 },
                 { "matrix": [0, 1], "x": 1, "y": 0 },
@@ -36,10 +35,12 @@
         }
     },
     "encoder": {
-        "rotary": {
-            "pin_a": "GP20",
-            "pin_b": "GP8",
-            "resolution": 4
-        }
+        "rotary": [
+            {
+                "pin_a": "GP20",
+                "pin_b": "GP8",
+                "resolution": 4
+            }
+        ]
     }
 }
