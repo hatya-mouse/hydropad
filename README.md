@@ -5,8 +5,8 @@ It has some holes for the water to go through.
 
 ## Gallery
 
-![HydroPad](https://imgur.com/uoes3hq)
-*Screenshot of the assembled case design*
+![HydroPad](https://imgur.com/hwGbj3H)
+*Screenshot of the assembled model*
 
 ![Schematic](https://imgur.com/sjXekbf)
 *Schematic of HydroPad*
