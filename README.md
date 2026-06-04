@@ -5,19 +5,19 @@ It has some holes for the water to go through.
 
 ## Gallery
 
-![HydroPad](https://imgur.com/hwGbj3H)
+![HydroPad](https://i.imgur.com/hwGbj3H.png)
 *Screenshot of the assembled model*
 
-![Schematic](https://imgur.com/sjXekbf)
+![Schematic](https://i.imgur.com/sjXekbf.png)
 *Schematic of HydroPad*
 
-![PCB](https://imgur.com/MLdsVQK)
+![PCB](https://i.imgur.com/MLdsVQK.png)
 *PCB layout of HydroPad*
 
-![Top Plate](https://imgur.com/iAU41Ki)
+![Top Plate](https://i.imgur.com/iAU41Ki.png)
 *Top plate design*
 
-![Bottom Case](https://imgur.com/btDLWDk)
+![Bottom Case](https://i.imgur.com/btDLWDk.png)
 *Bottom case design*
 
 ## Required Components
