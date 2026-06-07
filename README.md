@@ -1,6 +1,6 @@
 # HydroPad
 
-HydroPad is a macropad for people with some holes for the water to go through.
+HydroPad is a macropad with some holes for the water to go through, designed for people with hyperhydrosis.
 
 ## Gallery
 
